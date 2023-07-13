@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Özge Şahin
-- 👀 I’m interested in Front-end Development
+- 👀 I’m interested in Front-end Web Development
 - 🌱 I’m currently learning Javascript, HTML5, CSS3, JQUERY, MS SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
